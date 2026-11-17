@@ -4,7 +4,7 @@ title: Sobre mí
 permalink: /about/
 ---
 
-![Foto de Simón Jiménez](https://avatars.githubusercontent.com/u/183362102?v=4)
+![Foto de Simón Jiménez]({{ "/assets/images/me.png" | relative_url }})
 
 # Sobre mí
 Soy Simón, alumno de 2º de ASIR. En este blog documento las práctcas de servidores web, contenedores y despliegue continuo.
