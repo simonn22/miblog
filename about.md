@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Foto de Simón Jiménez](https://avatars.githubusercontent.com/u/183362102?v=4)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Sobre mí
+Soy Simón, alumno de 2º de ASIR. En este blog documento las práctcas de servidores web, contenedores y despliegue continuo.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Tecnologías con las que trabajo:** Linux, Apache2, Nginx, Docker y Git.
 
+## Perfil Técnico e Infraestructura
+* **Sistemas y Redes:** Administración de entornos Linux (**Fedora KDE**, **Ubuntu Server**, Debian), gestión de redes, *subnetting* y configuración de dispositivos Cisco.
+* **Despliegue y Servicios:** Gestión de mi propio servidor *homelab* mediante **Docker** y **Nginx** (Nextcloud, Jellyfin, Immich, Pi-hole), priorizando el software libre y el control local sobre los datos.
+* **Hardware:** Montaje y optimización de equipos.
 
-[jekyll-organization]: https://github.com/jekyll
+## Intereses y Cultura
+* **Aficiones técnicas y creativas:** Iniciación en el vuelo de drones *micro FPV* (ELRS y simuladores).
+* **Propiedad y Cultura:** Defensor del formato físico y de la propiedad real de los contenidos. Colecciono vinilos (**Audio-Technica AT-LP60XBT**), escucho hip-hop y rap y disfruto de los videojuegos en PC y VR.
